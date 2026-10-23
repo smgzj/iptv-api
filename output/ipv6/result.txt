@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-10-21 22:58:47,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-10-23 22:47:25,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
