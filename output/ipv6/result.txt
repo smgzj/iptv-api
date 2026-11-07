@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-11-06 01:56:19,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+2026-11-08 00:10:49,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 
 📡卫视频道,#genre#
+河北卫视,https://ysp.lml1971.ccwu.cc/hb_hebeiweishi/playlist.m3u8$订阅源
